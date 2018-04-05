@@ -1,6 +1,4 @@
-# Cong-Yao Huang (103000002)
-
-# Project 3 / Scene recognition with bag of words
+# Scene recognition with bag of words
 
 ## Overview
 The goal of this project is to learn basic image recognition methods. Our real objective is to write some codes implementing scene recognition, starting with **tiny-images and Kth-nearest neighbor** and then move on to the state of the art method : **bags of features + linear SVC**.
